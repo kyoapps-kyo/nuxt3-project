@@ -1,7 +1,5 @@
 <template>
-    <div class="avatar">
-        <img src="" alt="">
-    </div>
+        <img class="h-32 w-32 border border-slate-300 inline-block rounded-full" src="~/assets/avatar.png" alt="">
 </template>
 
 <script setup lang='ts'>
